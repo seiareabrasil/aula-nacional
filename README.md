@@ -1,3 +1,3 @@
 # SEI Área Brasil
 
-- [Aulão Regional](https://seiareabrasil.github.io/aulao-baixada-santista/aulao/)
+- [Aulão Regional](https://seiareabrasil.github.io/aula-nacional/aulao/)
